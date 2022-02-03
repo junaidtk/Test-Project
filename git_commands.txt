@@ -1,0 +1,17 @@
+
+## Clone, commit and push changes to remote repo
+------------------------------------------------
+
+git init  // Initialise the git.
+
+git clone clone_url   //  To clone a remote repo to local folder.
+
+change the required files.  // Add necessary changes in the files and folder.
+
+git add .  // Stage all the changed files
+
+git commit -m 'commit message'  // Provide a meaning full commit message
+
+git log  // To check all the commits and its details.
+
+git push  // Push the changes to remote repo.
